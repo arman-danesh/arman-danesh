@@ -4,17 +4,16 @@ I’m a passionate **Frontend Developer** who loves crafting modern web interfac
 ## 🛠 Tech Stack
 
 ## 🌐 Frontend
-![TypeScript](https://camo.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) 
-![React](https://camo.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) 
-![Next.js](https://camo.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg)
-![SASS](https://camo.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)
-![LESS](https://camo.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg)
-![Tailwind CSS](https://camo.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg)
-![Bootstrap](https://camo.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg)
-![jQuery](https://camo.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg)
-![Blazor](https://camo.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg)
-![Blade](https://camo.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg)
-![PWA](https://camo.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/icons/others/pwa.png)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![SASS](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![LESS](https://img.shields.io/badge/less-%231d365d.svg?style=for-the-badge&logo=less&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563d7c.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%23512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![Blade](https://img.shields.io/badge/blade-%23F05340.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 
 ## ⚙️ Backend
