@@ -15,22 +15,23 @@ I’m a passionate **Frontend Developer** who loves crafting modern web interfac
 ![Blazor](https://img.shields.io/badge/blazor-%23512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white)
 ![Blade](https://img.shields.io/badge/blade-%23F05340.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-
 ## ⚙️ Backend
-![Node.js](https://camo.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)
-![Express.js](https://camo.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
-![NestJS](https://camo.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg)
-![REST API](https://camo.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/icons/others/api.png)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white)
+
 
 ## 🗄️ Databases
-![MySQL](https://camo.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)
-![SQLite](https://camo.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg)
-![MongoDB](https://camo.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ## 🚀 DevOps & Tools
-![Git](https://camo.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
-![GitHub](https://camo.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)
-![GitLab](https://camo.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
 ## 🌟 What I Do
